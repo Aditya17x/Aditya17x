@@ -1,5 +1,5 @@
 ## Hi there 👋
-more soon
+more soon.
 
 <!--
 **Aditya17x/Aditya17x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
